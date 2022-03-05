@@ -5,8 +5,8 @@
     *Chrome And Edge Web browser
 
   <h2>Steps<h2/>
-  <h3>* Enter Akbank Home Page; “akbank.com” <br/><h3/>
 
+* Enter Akbank Home Page; “akbank.com” <br/>
 * Scroll down to the bottom of the page <br/>
 * Click on “Kredi Hesaplama” <br/>
 * Enter “50000TL” in “TUTAR” field <br/>
