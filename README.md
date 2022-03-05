@@ -18,3 +18,8 @@
 * Check “Ödeme Planı” is opened <br/>
 * Scroll down on the “Ödeme Planı” page until 20th is seen <br/>
 
+<img src = "ChromeDriver.png">
+
+<br><br>
+
+<img src = "EdgeDriver.png">
