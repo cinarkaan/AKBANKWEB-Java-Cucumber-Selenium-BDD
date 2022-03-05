@@ -2,7 +2,9 @@
 <h1>NETAŞ - AKBANKWEB<h1/>
 
 <h2>Requirements</h2>
-  <li>Chrome And Edge Web browser<li/>
+  <ul>
+    <li>Chrome And Edge Web browser<li/>
+  <ul/>
 
 Steps:
 * Enter Akbank Home Page; “akbank.com” 
