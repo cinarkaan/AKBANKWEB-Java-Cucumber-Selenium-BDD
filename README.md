@@ -5,14 +5,13 @@
     *Chrome And Edge Web browser
 
   <h2>Steps<h2/>
-
   <ul>
     <li>
       Enter Akbank Home Page; “akbank.com” 
-    <li/>
+    <li>
     <li>
        Scroll down to the bottom of the page
-    <li/>
+    <li>
     <li>
        Click on “Kredi Hesaplama”
     <li/>
