@@ -2,11 +2,9 @@
 <h1>NETAŞ - AKBANKWEB<h1/>
 
 <h2>Requirements</h2>
-  <ul>
-    <li>Chrome And Edge Web browser<li/>
-  <ul/>
+*Chrome And Edge Web browser
 
-Steps:
+<h2>Steps<h2/>
 * Enter Akbank Home Page; “akbank.com” 
 * Scroll down to the bottom of the page
 * Click on “Kredi Hesaplama”
