@@ -11,15 +11,15 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class CreditCalculation {
+public class StepDefinition {
 
 
 
     BaseFactory baseFactory = new BaseFactory();
     Base base;
 
-    public CreditCalculation () {
-        base = baseFactory.getBase("Chrome");
+    public StepDefinition() {
+        base = baseFactory.getBase("Edge");
     }
 
     @Given("^: HomePage will be opened$")
